@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I am Aryan Gupta</h1>
+
 I'm a self-taught passionate Backend developer.
+
 - 🔭 **Problem Solving** | **Backend Developer**
 - 🌱 **Currently Doing**: Backend in NodeJs
 - 🤔 **Actively Looking for**: SDE opportunities
@@ -41,6 +43,8 @@ I'm a self-taught passionate Backend developer.
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Elite&layout=compact&theme=light" alt="Aryan's GitHub streak" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Elite&theme=github_dark">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Elite&theme=github_dark" alt="Aryan's Github stats" />
@@ -53,6 +57,7 @@ I'm a self-taught passionate Backend developer.
     </td>
   </tr>
 </table>
+
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
